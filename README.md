@@ -3,3 +3,6 @@
 This is for introduction
 
 Updated again!
+
+
+Learning new commands for Git, and integrating with VS code.
